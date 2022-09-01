@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/assets-for-cdn/0.0.1/css/main.css",
-    "main.js": "/assets-for-cdn/0.0.1/js/main.js",
-    "0.0.1/js/27.chunk.js": "/assets-for-cdn/0.0.1/js/27.chunk.js",
-    "0.0.1/media/logo.svg": "/assets-for-cdn/0.0.1/media/logo.svg",
+    "main.css": "/assets-for-cdn/0.0.3/css/main.css",
+    "main.js": "/assets-for-cdn/0.0.3/js/main.js",
+    "0.0.3/js/27.chunk.js": "/assets-for-cdn/0.0.3/js/27.chunk.js",
+    "0.0.3/media/logo.svg": "/assets-for-cdn/0.0.3/media/logo.svg",
     "index.html": "/assets-for-cdn/index.html"
   },
   "entrypoints": [
-    "0.0.1/css/main.css",
-    "0.0.1/js/main.js"
+    "0.0.3/css/main.css",
+    "0.0.3/js/main.js"
   ]
 }
