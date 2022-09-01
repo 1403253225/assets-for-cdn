@@ -78,9 +78,7 @@
   },
   "standard-version": {
     "skip": {
-      "changelog": true,
-      "tag": true,
-      "commit": true
+      "changelog": true
     }
   },
   "eslintConfig": {
